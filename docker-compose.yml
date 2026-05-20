@@ -43,6 +43,8 @@ services:
       - "8888:8888"
     environment:
       - SPARK_MASTER=spark://spark-master:7077
+    volumes:
+      - .:/home/jovyan/work
     depends_on:
       - spark-master
     networks:
