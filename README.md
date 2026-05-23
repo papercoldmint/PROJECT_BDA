@@ -80,8 +80,6 @@ PROJECT\_BDA/
 
 │   ├── 02-AUC-ROC.ipynb              # Implementasi model Random Forest \& tuning (Gold)
 
-│   ├── correlation\_matrix.png        # Hasil visualisasi korelasi fitur
-
 │  
 
 ├── report/                      # Aset gambar untuk dokumentasi dan laporan
@@ -105,6 +103,7 @@ PROJECT\_BDA/
 ├── .env                         # Konfigurasi variabel lingkungan (Kredensial MinIO)
 
 └── requirements.txt             # Dependensi pustaka Python yang dibutuhkan
+└── sources.yaml                 # Mapping sumber data → target path MinIO
 
 ```
 
