@@ -76,9 +76,8 @@ PROJECT\_BDA/
 
 ├── notebooks/                   # JupyterLab Notebooks untuk analisis \& eksperimen
 
-│   ├── 01\_data\_preprocessing.ipynb   # Tahap EDA, cleaning, dan preprocessing (Silver)
-
-│   ├── 02-AUC-ROC.ipynb              # Implementasi model Random Forest \& tuning (Gold)
+│   ├── 02_data_preprocessing-Copy1.ipynb   # Tahap EDA, cleaning, dan preprocessing (Silver)
+│   ├── 03-AUC-ROC.ipynb              # Implementasi model Random Forest & tuning (Gold)
 
 │  
 
